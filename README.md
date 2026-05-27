@@ -18,7 +18,7 @@ Chlor leverages low-level graphics manipulation techniques to provide high-perfo
 
 ## Disclaimer
 
-*Usage of this software is intended for testing purposes within environments. The author assumes no responsibility for system instability resulting from the use of aggressive GDI techniques.*
+*Usage of this software is intended for testing purposes within environments. The author assumes no responsibility for system instability resulting from the use of aggressive GDI payloads.*
 
 ## Screenshots
 
