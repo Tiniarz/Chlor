@@ -22,6 +22,5 @@ Chlor leverages low-level graphics manipulation techniques to provide high-perfo
 
 ## Screenshots
 
-![Screenshot 1](media/Screenshot1.jpg?raw=true)
-
-![Screenshot 2](media/Screenshot2.jpg?raw=true)
+![Screenshot 1](media/Screenshot1.jpg)
+![Screenshot 2](media/Screenshot2.jpg)
