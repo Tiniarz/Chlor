@@ -22,6 +22,6 @@ Chlor leverages low-level graphics manipulation techniques to provide high-perfo
 
 ## Screenshots
 
-![Screenshot 1](//raw.githubusercontent.com/media/Screenshot1.jpg)
+![Screenshot 1](https://github.com/Tiniarz/chlor/raw/media/Screenshot1.jpg)
 
-![Screenshot 2](//raw.githubusercontent.com/media/Screenshot2.jpg)
+![Screenshot 2](https://github.com/Tiniarz/chlor/raw/media/Screenshot2.jpg)
